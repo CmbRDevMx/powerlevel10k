@@ -4,7 +4,8 @@
 
 Powerlevel10k is a theme for Zsh. It emphasizes [speed](#uncompromising-performance),
 [flexibility](#extremely-customizable) and [out-of-the-box experience](#configuration-wizard).
-
+- config autosuggest plugins
+[View](https://gist.github.com/CmbRDevMx/f7d54d5689b0a7db4dd22d86d3b2c94f)
 ![Powerlevel10k](
 https://raw.githubusercontent.com/romkatv/powerlevel10k-media/master/prompt-styles-high-contrast.png)
 
